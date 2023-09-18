@@ -1,79 +1,18 @@
-<!-- Header -->
-<p align="center">
-  <img src="header.png" alt="Header" width="800" height="200">
+<h1 align="center">Hi 👋, I'm Gyanoday Kothari</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanoday06&label=Profile%20views&color=0e75b6&style=flat" alt="gyanoday06" /> </p>
+
+- 🌱 I’m currently learning **Backend Dev**
+
+- 📫 How to reach me **gyanoday06@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gyanoday06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanoday06" height="30" width="40" /></a>
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
-<p align="center">
-  Welcome to my GitHub profile! I'm a passionate [Your Role] from [Your Location] with a love for coding and [Your Interests]. Here, you'll find some of my projects and contributions to the open-source community.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- Skills & Technologies -->
-<h2 align="center">🔧 Skills & Technologies</h2>
-<p align="center">
-  <img src="html.png" alt="HTML5" width="40" height="40">
-  <img src="css.png" alt="CSS3" width="40" height="40">
-  <img src="js.png" alt="JavaScript" width="40" height="40">
-  <img src="react.png" alt="React" width="40" height="40">
-  <!-- Add more skills and technologies icons as needed -->
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanoday06&show_icons=true&locale=en&layout=compact" alt="gyanoday06" /></p>
 
-<!-- Currently Learning -->
-<h2 align="center">🌱 I'm Currently Learning</h2>
-<p align="center">
-  [Mention what you're currently learning or excited about]
-</p>
-
-<!-- Projects -->
-<h2 align="center">🚀 Projects</h2>
-<p align="center">
-  Here are a few projects I'm proud of:
-</p>
-
-<!-- Project Cards -->
-<p align="center">
-  <a href="link-to-project1">
-    <img src="project1.png" alt="Project 1" width="200" height="150">
-  </a>
-  <a href="link-to-project2">
-    <img src="project2.png" alt="Project 2" width="200" height="150">
-  </a>
-  <a href="link-to-project3">
-    <img src="project3.png" alt="Project 3" width="200" height="150">
-  </a>
-</p>
-<p align="center">
-  Feel free to explore more of my work on <a href="link-to-your-portfolio">my portfolio website</a>!
-</p>
-
-<!-- Let's Connect -->
-<h2 align="center">🤝 Let's Connect</h2>
-<p align="center">
-  💬 You can reach out to me on <a href="your-linkedin-profile-link">LinkedIn</a>.
-  <br>
-  📧 Drop me an email at <a href="mailto:your-email@example.com">your-email@example.com</a>.
-</p>
-
-<!-- Support My Work -->
-<h2 align="center">🙏 Support My Work</h2>
-<p align="center">
-  If you find my projects helpful or interesting, consider buying me a coffee!
-  <br>
-  <a href="link-to-coffee-page">
-    <img src="coffee.png" alt="Buy Me a Coffee" width="150" height="50">
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <a href="link-to-github-profile">
-    <img src="github-stats.png" alt="My GitHub Stats" width="500" height="250">
-  </a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  Thanks for visiting my GitHub profile! Have a great day! 👨‍💻🚀🌟
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanoday06&" alt="gyanoday06" /></p>
