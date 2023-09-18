@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Gyanoday Kothari</h1>
-    <div id="header">
+ <h1 align="center">Hi 👋, I'm Gyanoday Kothari</h1>
+    <div id="header" align="center">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile GIF" />
     </div>
     <p>- 🌱 I’m currently learning <strong>Backend Development</strong></p>
