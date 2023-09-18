@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gyanoday Kothari</title>
-    <style>
-        /* Add your CSS styles here */
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            text-align: center;
-        }
-        #header {
-            text-align: center;
-        }
-        .badges {
-            display: flex;
-            justify-content: center;
-        }
-        .badges a {
-            margin: 10px;
-        }
-        h3 {
-            text-align: left;
-        }
-        p {
-            text-align: left;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi 👋, I'm Gyanoday Kothari</h1>
+<h1>Hi 👋, I'm Gyanoday Kothari</h1>
     <div id="header">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile GIF" />
     </div>
@@ -83,5 +50,3 @@
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanoday06&show_icons=true&theme=dark&locale=en&layout=compact" alt="gyanoday06" />
     </p>
-</body>
-</html>
