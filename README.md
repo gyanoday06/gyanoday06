@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gyanoday Kothari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanoday06&label=Profile%20views&color=0e75b6&style=flat" alt="gyanoday06" /> </p>  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanoday06&label=Profile%20views&color=0e75b6&style=flat" alt="gyanoday06" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 🌱 I’m currently learning **Backend Dev**
 
 - 📫 How to reach me **gyanoday06@gmail.com**
@@ -14,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanoday06&show_icons=true&locale=en&layout=compact" alt="gyanoday06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanoday06&" alt="gyanoday06" /></p>
