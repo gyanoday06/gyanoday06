@@ -2,6 +2,7 @@
     <div id="header" align="center">
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Profile GIF" />
     </div>
+    <br >
     <p>- 🌱 I’m currently learning <strong>Backend Development</strong></p>
     <p>- 📫 How to reach me: <strong>gyanoday06@gmail.com</strong></p>
     <h3>Connect with me:</h3>
